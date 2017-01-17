@@ -1,0 +1,23 @@
+Water Bottle Lab
+water bottle should be empty(X)
+should go to 100 when filled
+should go down by 10 when drank
+should go to 0 when emptied
+should not be able to go below 0
+Water Bottle Lab Extension
+Create an athlete object.
+
+
+
+
+
+
+
+
+
+
+Athlete should have a hydration attribute that starts at 100.
+Athlete should have a distance covered attribute starts at 0.
+Athlete should be able to run: increasing distance, decreasing hydration.
+Athlete should not move when running dehydrated: hydration at 0;
+Athlete should be able to increase hydration by drinking from water bottle
